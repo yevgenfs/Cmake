@@ -1,0 +1,3 @@
+C:/Users/yevhen.surkov/Documents/home/CMakeFiles/small_project.dir
+C:/Users/yevhen.surkov/Documents/home/CMakeFiles/ALL_BUILD.dir
+C:/Users/yevhen.surkov/Documents/home/CMakeFiles/ZERO_CHECK.dir
